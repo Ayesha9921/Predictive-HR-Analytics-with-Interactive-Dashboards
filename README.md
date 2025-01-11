@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates the use of **machine learning** and **data visualization** to enhance **Human Resource (HR) decision-making**. By analyzing HR datasets, building predictive models, and creating interactive dashboards, this solution provides actionable insights to improve employee retention and performance.
 
----
+
 
 ## Features
 
@@ -33,25 +33,24 @@ This project demonstrates the use of **machine learning** and **data visualizati
   - At-risk employees
   - Correlations between education, performance, and retention
 
----
 
 ## Tools & Technologies
 - **Programming:** Python (Pandas, Scikit-learn, Matplotlib)
 - **Visualization:** Power BI
 - **Models:** Logistic Regression, Decision Tree, Random Forest
 
----
+
 
 ## Key Outcomes
 - **Retention Impact:** Increased employee retention by **15%** through targeted strategies.
 - **Data-Driven Decisions:** Enabled HR teams to address turnover risks and improve workforce performance.
 
----
+
 
 ## Repository Contents
 - **Dataset:** Sample HR dataset (cleaned and processed)
 - **Code:** Scripts for data preprocessing, modeling, and visualization
-- **Dashboards:** Examples of Power BI visualizations and reports
+- **Dashboards:** Power BI visualizations and reports
 
----
+
 
