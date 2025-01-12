@@ -7,7 +7,7 @@ This project demonstrates the use of **machine learning** and **data visualizati
 
 ## Features
 
-### Data Analysis and Preprocessing
+### Data Analysis & Preprocessing
 - Analyzed a dataset of **10,000+ employee records**, including:
   - Demographics
   - Job details
