@@ -41,16 +41,13 @@ This project demonstrates the use of **machine learning** and **data visualizati
 
 
 
-## Key Outcomes
-- **Retention Impact:** Increased employee retention by **15%** through targeted strategies.
+## Expected Outcomes 
+- **Retention Impact:** Increased employee retention at least  **15%** through targeted strategies.
 - **Data-Driven Decisions:** Enabled HR teams to address turnover risks and improve workforce performance.
 
 
 
-## Repository Contents
-- **Dataset:** Sample HR dataset (cleaned and processed)
-- **Code:** Scripts for data preprocessing, modeling, and visualization
-- **Dashboards:** Power BI visualizations and reports
+
 
 
 
